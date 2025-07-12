@@ -1,0 +1,52 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+019.6   C1OUT
+020     @SCRATCH
+021     @SCRATCH
+021     _RETURN_
+022     @SCRATCH
+023     @SCRATCH
+024     bien_bnt1
+025     main.@SCRATCH1
+026     @delay_ms1.P1
+09B-09C @READ_PROGRAM_MEMORY8.P1
+
+ROM Allocation:
+00000A  @delay_ms1
+00001E  @cinit1
+00001E  main
+000024  @cinit2
+
+Project Directory:
+    C:\Users\HP\Desktop\PIC12F629\
+
+Project Files:
+    main.c                                                  [28-Aug-22 00:01  CRC=F59A2E44]
+    main.h                                                  [27-Aug-22 23:58  CRC=D872A938]
+    ..\..\..\..\Program Files (x86)\PICC\Devices\12F629.h   [21-Jan-21 11:31  CRC=E7949DFB]
+
+Source signature=9D361372
+Program memory checksum=0000
+Hex file CRC=7F1F
+
+Units:
+    C:\Users\HP\Desktop\PIC12F629\main (main)
+
+Compiler Settings:
+    Processor:      PIC12F629
+    Pointer Size:   8
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:   CCS5
+
+Output Files:
+    XREF file:   main.xsym
+    Errors:      main.err
+    Ext Symbols: main.esym
+    INHX8:       main.hex
+    Symbols:     main.sym
+    List:        main.lst
+    Debug/COFF:  main.cof
+    Project:     main.ccspjt
+    Call Tree:   main.tre
+    Statistics:  main.STA

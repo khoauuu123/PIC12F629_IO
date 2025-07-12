@@ -1,0 +1,47 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC12F629
+CCSVerions=5.101
+Compiler=PCM
+CCSVersion=5.101
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\HP\Desktop\PIC12F629\main]
+Type=4
+[mru-list]
+1=main.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=2
+D1=27-08-2022
+D1_L=2
+D1_L1=[85782]Project Opened.
+D1_L2=[85815]Started Editing.
+D2=28-08-2022
+D2_L=2
+D2_L1=[326]Stopped Editing.
+TotalEdit=16
+TotalDebug=0
+D2_E=16
+D2_D=0
+D2_L2=[326]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=1
+2=main.h
+t2=1
+Count=2
+[main.c]
+Type=4
+
+[defines]
+buildcount=3
+[Units]
+Count=1
+1=main (main)

@@ -1,0 +1,14 @@
+#include <main.h>
+
+void main()
+{
+   port_a_pullups(0x03);
+
+	while(TRUE)
+	{
+
+
+		//TODO: User Code
+	}
+
+}
